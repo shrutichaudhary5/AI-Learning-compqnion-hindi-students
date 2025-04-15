@@ -1,4 +1,4 @@
-# AI-Learning-compqnion-hindi-students
+# AI-Learning-companion-hindi-students
 A product case study on building an AI powered doubt solving assistant for hindi medium students
 # AI-Powered Learning Companion for Hindi Medium Students
 
@@ -155,12 +155,19 @@ This app allows users to:
 - Earn certificates
 - Access settings and support
 
-### Figma Design Preview:
-[Click here to view full Figma Design](https://www.figma.com/design/4twYvbZVzdwDDSRNdPysvv/Untitled?node-id=28-61&t=tzbCaMz6Po3upNOZ-1)
+## 🔗 Figma Design Preview  
 
-The complete design was built using **Figma** and is part of the overall product solution.
+[Click here to view full interactive design on Figma](https://www.figma.com/proto/4twYvbZVzdwDDSRNdPysvv/Untitled?type=design&node-id=28-61&t=tzbCaMz6Po3upNOZ-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A61)
+
+
+
+The complete design was created using **Figma** and represents the UI/UX aspect of the AI Learning platform.
+
+
 
 ---
+
+
 
 **Created with dedication by Shruti Chaudhary**
 
