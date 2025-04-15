@@ -161,7 +161,8 @@ This app allows users to:
 
 
 
-The complete design was created using **Figma** and represents the UI/UX aspect of the AI Learning platform.
+The complete design was created using **Figma** this Figma design represents the mobile UI/UX implementation of the AI-powered learning companion solution, branded as **SHIKSHA SAATHI**.
+Created with dedication by Shruti Chaudhary
 
 
 
