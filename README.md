@@ -143,7 +143,27 @@ Figma designs showing:
 - Boost in confidence & academic performance
 - Increased digital inclusion in Bharat’s classrooms
 
+## 📱 Mobile App UI/UX Design – Shiksha Saathi
+
+To make the learning experience more interactive and accessible for Hindi medium students, I designed a mobile application named **Shiksha Saathi**.
+
+This app allows users to:
+- Sign up / Log in
+- Access and manage their courses
+- View lessons
+- Take quizzes
+- Earn certificates
+- Access settings and support
+
+### Figma Design Preview:
+[Click here to view full Figma Design](https://www.figma.com/design/4twYvbZVzdwDDSRNdPysvv/Untitled?node-id=28-61&t=tzbCaMz6Po3upNOZ-1)
+
+The complete design was built using **Figma** and is part of the overall product solution.
+
 ---
+
+**Created with dedication by Shruti Chaudhary**
+
 
 ## Learnings
 - Product must match user’s **language, habits and context**
